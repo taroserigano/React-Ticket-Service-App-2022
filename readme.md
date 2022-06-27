@@ -1,28 +1,13 @@
 # Support Desk App
 
-Support ticket application built with the MERN stack. This is a project from my [React Front To Back](https://www.udemy.com/course/react-front-to-back-2022/?referralCode=4A622C7E48DB66154114) course.
+Support ticket application built with the MERN stack. You can register and login, and then you can create tickets, all of these get stored in MongoDB. 
 
-## Usage
+![alt text](https://github.com/taroserigano/React-Ticket-Service-App-2022/blob/main/screenshots/1.png)
 
-### Set Environment Variables
 
-Rename the .envexample to .env and add your [MongoDB](https://www.mongodb.com/) database URI and your JWT secret
+![alt text](https://github.com/taroserigano/React-Ticket-Service-App-2022/blob/main/screenshots/2.png)
 
-### Install backend dependencies
+![alt text](https://github.com/taroserigano/React-Ticket-Service-App-2022/blob/main/screenshots/3.png)
 
-```bash
-npm install
-```
+![alt text](https://github.com/taroserigano/React-Ticket-Service-App-2022/blob/main/screenshots/4.png)
 
-### Install client dependencies
-
-```bash
-cd frontend
-npm install
-```
-
-### Run app in development (frontend & backend)
-
-```bash
-npm run dev
-```
